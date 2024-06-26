@@ -1,6 +1,6 @@
 Analyzing Lyrical Schemes of Popular Music Genres in Sacramento, California
 
-
+![images](https://github.com/aidancamp01/Individual-Project/assets/170369157/bc5318a1-8209-4198-b08d-dc865f91d8de)
 
 Abstract:
 For my final project, I have chosen to analyze three different types of music genres most prevalent in my hometown of Sacramento, California, and research the lyrical scheme for each of the genres. 
