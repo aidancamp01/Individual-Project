@@ -12,3 +12,5 @@ different music genres unique and place them in their own distinct category with
 scene, representing a microcosm of broader musical trends across the United States. By focusing on this locale, my project aims to highlight how regional influences shape music genres and their lyrical 
 content. This exploration is significant because it provides insight into the cultural, social, and artistic influences that define Sacramento's music scene. Additionally, understanding the common themes 
 and unique elements of these genres can contribute to a broader discussion about music categorization, audience engagement, and the further evolution of musical styles. 
+
+Note: Please use each labeled Country, Pop, and Rap as the data being used. I could not figure out how to move the entire Python folder into GITHUB after searching tirelessly on the internet. Sorry for the inconvenience. 
